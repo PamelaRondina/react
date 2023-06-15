@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Contacto from './components/ejercicio123/Contacto';
+import TaskComponent from './components/pure/task';
+import TaskListComponent from './components/container/task_list';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
         {/* Componente de exemplo Funcional*/}
         {/* <GreetingF name="Frida"/> */}
         {/*Componente de Listado de Tareas*/}
-        <Contacto/>
+        <TaskListComponent/>
         
       </header>
     </div>

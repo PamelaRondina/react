@@ -150,9 +150,9 @@ export default App;
 
 LEVELS: una tarea con una constante de NORMAL, URGENTE y BLOCKING 
 
-TASK.CLASS: una clase con tipo tarea, con un pequño constructor.
+TASK.CLASS: una clase con tipo tarea, con un pequeño constructor.
 
 TASK.JSX: un componente, que tiene una props llamada task, con un `<div>` con diferentes níveles `<h1> -- <h5>` y um propTypes que va tener diferencias intancias de los props
 
-TASK_LIST.JSX: tiene una tarea por defalt(padrão)
+TASK_LIST.JSX: tiene una tarea por default(padrão)
 
