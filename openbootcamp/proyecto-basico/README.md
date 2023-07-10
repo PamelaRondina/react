@@ -9,7 +9,7 @@
 - [index.js](#)
 - [App.js](#)
 - [Componentes de Classe](#Greeting)
-- [Componentes Funcional](#GreetingF)
+- [Componentes Funcional - GreetingF.jsx](#GreetingF)
 
 </details>
 
